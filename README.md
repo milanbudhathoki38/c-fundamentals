@@ -1,6 +1,3 @@
-## Course
-Concepts of Programming — Lyon College 
-
 # Fibonacci Sequence in C
 My first programming project written in C during **Concepts of Programming** at Lyon College. This was my introduction to programming before transitioning to C++ and Python.
 
@@ -46,4 +43,7 @@ The ratio of consecutive Fibonacci numbers converges to the **Golden Ratio (φ �
 ```
 
 ## Note
-This was my very first program. I have since learned C++, Python, and JavaScript/Next.js. Planning to revisit and expand this project as my math and CS knowledge grows — especially the connections between Fibonacci, the Golden Ratio, and series convergence from Calculus 2.
+This was my first program. I have since learned C++, Python, and JavaScript/Next.js. Planning to revisit and expand this project as my math and CS knowledge grows — especially the connections between Fibonacci, the Golden Ratio, and series convergence from Calculus 2.
+
+## Course
+Concepts of Programming — Lyon College 
