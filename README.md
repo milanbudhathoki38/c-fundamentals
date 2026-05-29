@@ -4,7 +4,9 @@ My first programming project written in C during **Concepts of Programming** at 
 ## What it does
 Computes and prints the first 30 numbers in the Fibonacci sequence using an array.
 
+
 ## Sample Output
+```
 The first 30 Fibonacci numbers:
 fib[ 0]= 0
 fib[ 1] = 1
@@ -36,6 +38,7 @@ fib[26] = 121393
 fib[27] = 196418
 fib[28] = 317811
 fib[29] = 514229
+```
 
 ## How to Compile and Run
 
