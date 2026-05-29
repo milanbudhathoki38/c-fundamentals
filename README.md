@@ -83,4 +83,4 @@ This was my first program. I have since learned C++, Python, and JavaScript/Next
 
 
 ## Course
-Concepts of Programming — Lyon College 
+Concepts of Programming(CSC-100) — Lyon College 
