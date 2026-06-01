@@ -1,24 +1,15 @@
-## Note
-This was my first program. I have since learned C++, Python, and JavaScript/Next.js. Planning to revisit and expand this project as my math and CS knowledge grows — especially the connections between Fibonacci, the Golden Ratio, and series convergence.
-
 # Fibonacci Sequence in C
 My first programming project written in C during **Concepts of Programming** at Lyon College. This was my introduction to programming before transitioning to C++ and Python.
 
 ## What it does
 Computes and prints the first 30 numbers in the Fibonacci sequence using an array.
 
-## How to Compile and Run
-
-```bash
-gcc fibonacci.c -o fibonacci
-./fibonacci
-```
 
 ## Sample Output
 
 ```
 The first 30 Fibonacci numbers:
-fib[ 0] = 0
+fib[ 0]= 0
 fib[ 1] = 1
 fib[ 2] = 1
 fib[ 3] = 2
@@ -50,7 +41,12 @@ fib[28] = 317811
 fib[29] = 514229
 ```
 
+## How to Compile and Run
 
+```bash
+gcc fibonacci.c -o fibonacci
+./fibonacci
+```
 
 ## Planned Improvements
 - Take user input for how many numbers to print
@@ -97,5 +93,10 @@ The ratio of consecutive Fibonacci numbers converges to the **Golden Ratio (φ �
 As n increases the ratio between consecutive Fibonacci numbers gets closer and closer to **φ = 1.6180339887...** — a value known as the **Golden Ratio**. The symbol φ (phi) is a Greek letter mathematicians use to represent this specific constant, the same way π (pi) represents 3.14159... The Golden Ratio is special because it is irrational — its decimal never ends and never repeats. In Calculus 2 terms this is called convergence — 
 the ratio is a sequence that approaches a fixed limit but never exactly reaches it. The difference from φ in the table above gets smaller every row, approaching zero forever — that is convergence in action.
 
+
+## Note
+This was my first program. I have since learned C++, Python, and JavaScript/Next.js. Planning to revisit and expand this project as my math and CS knowledge grows — especially the connections between Fibonacci, the Golden Ratio, and series convergence.
+
 ## Course
 Concepts of Programming — Lyon College
+
