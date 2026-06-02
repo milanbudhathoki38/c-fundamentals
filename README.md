@@ -93,6 +93,32 @@ The ratio of consecutive Fibonacci numbers converges to the **Golden Ratio (φ �
 As n increases the ratio between consecutive Fibonacci numbers gets closer and closer to **φ = 1.6180339887...** — a value known as the **Golden Ratio**. The symbol φ (phi) is a Greek letter mathematicians use to represent this specific constant, the same way π (pi) represents 3.14159... The Golden Ratio is special because it is irrational — its decimal never ends and never repeats. In Calculus 2 terms this is called convergence — 
 the ratio is a sequence that approaches a fixed limit but never exactly reaches it. The difference from φ in the table above gets smaller every row, approaching zero forever — that is convergence in action.
 
+## Connection to Pascal's Triangle
+
+Pascal's Triangle is a triangle of numbers where each number is the sum of the two above it:
+
+```
+        1
+       1 1
+      1 2 1
+     1 3 3 1
+    1 4 6 4 1
+   1 5 10 10 5 1
+```
+
+If you add the numbers along the diagonal shallow lines you get the Fibonacci sequence:
+
+```
+1
+1
+1+1 = 2
+1+2 = 3
+1+3+1 = 5
+1+4+3 = 8
+1+5+6+1 = 13
+```
+
+The Fibonacci numbers appear hidden inside Pascal's Triangle — two of the most famous sequences in mathematics are secretly connected. This connection shows up in combinatorics, probability, and algebra — far beyond just computing a sequence.
 
 ## Note
 This was my first program. I have since learned C++, Python, and JavaScript/Next.js. Planning to revisit and expand this project as my math and CS knowledge grows — especially the connections between Fibonacci, the Golden Ratio, and series convergence.
