@@ -67,8 +67,6 @@ Each number is the sum of the two before it:
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89...
 ```
 
-The ratio of consecutive Fibonacci numbers converges to the **Golden Ratio (φ ≈ 1.618)** — a concept directly connected to convergent series studied in Calculus 2.
-
 ## Golden Ratio Convergence
 
 | n | fib(n-1) | fib(n) | fib(n) / fib(n-1) | Difference from φ |
