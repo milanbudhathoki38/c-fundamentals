@@ -122,5 +122,5 @@ The Fibonacci numbers appear hidden inside Pascal's Triangle — two of the most
 This was my first program. I have since learned C++, Python, and JavaScript/Next.js. Planning to revisit and expand this project as my math and CS knowledge grows — especially the connections between Fibonacci, the Golden Ratio, and series convergence.
 
 ## Course
-Concepts of Programming — Lyon College
+Concepts of Programming — Lyon College(Spring 2025)
 
