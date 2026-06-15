@@ -71,22 +71,22 @@ Each number is the sum of the two before it:
 
 | n | fib(n-1) | fib(n) | fib(n) / fib(n-1) | Difference from φ |
 |---|----------|--------|-------------------|-------------------|
-| 2 | 1 | 1 | 1.000000 | 0.618034 |
-| 3 | 1 | 2 | 2.000000 | 0.381966 |
-| 4 | 2 | 3 | 1.500000 | 0.118034 |
-| 5 | 3 | 5 | 1.666667 | 0.048632 |
-| 6 | 5 | 8 | 1.600000 | 0.018034 |
-| 7 | 8 | 13 | 1.625000 | 0.006966 |
-| 8 | 13 | 21 | 1.615385 | 0.002649 |
-| 9 | 21 | 34 | 1.619048 | 0.000986 |
-| 10 | 34 | 55 | 1.617647 | 0.000387 |
-| 11 | 55 | 89 | 1.618182 | 0.000148 |
-| 12 | 89 | 144 | 1.617978 | 0.000056 |
-| 13 | 144 | 233 | 1.618056 | 0.000022 |
-| 14 | 233 | 377 | 1.618026 | 0.000008 |
-| 15 | 377 | 610 | 1.618037 | 0.000003 |
-| 20 | 4181 | 6765 | 1.618034 | 0.000001 |
-| 29 | 196418 | 317811 | 1.618034 | 0.000000 |
+| 2 | 1        | 1      | 1.000000          | 0.618034          |
+| 3 | 1        | 2      | 2.000000          | 0.381966          |
+| 4 | 2        | 3      | 1.500000          | 0.118034          |
+| 5 | 3        | 5      | 1.666667          | 0.048632          |
+| 6 | 5        | 8      | 1.600000          | 0.018034          |
+| 7 | 8        | 13     | 1.625000          | 0.006966          |
+| 8 | 13       | 21     | 1.615385          | 0.002649          |
+| 9 | 21       | 34     | 1.619048          | 0.000986          |
+| 10 | 34      | 55     | 1.617647          | 0.000387          |
+| 11 | 55      | 89     | 1.618182          | 0.000148          |
+| 12 | 89      | 144    | 1.617978.         | 0.000056          |
+| 13 | 144     | 233    | 1.618056          | 0.000022          |
+| 14 | 233     | 377    | 1.618026          | 0.000008          |
+| 15 | 377     | 610    | 1.618037          | 0.000003          |
+| 20 | 4181    | 6765   | 1.618034          | 0.000001          |
+| 29 | 196418  | 317811 | 1.618034          | 0.000000          |
 
 As n increases the ratio between consecutive Fibonacci numbers gets closer and closer to **φ = 1.6180339887...** — a value known as the **Golden Ratio**. The symbol φ (phi) is a Greek letter mathematicians use to represent this specific constant, the same way π (pi) represents 3.14159... The Golden Ratio is special because it is irrational — its decimal never ends and never repeats. In Calculus 2 terms this is called convergence — 
 the ratio is a sequence that approaches a fixed limit but never exactly reaches it. The difference from φ in the table above gets smaller every row, approaching zero forever — that is convergence in action.
